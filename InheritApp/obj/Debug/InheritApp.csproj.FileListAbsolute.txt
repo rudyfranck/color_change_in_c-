@@ -1,0 +1,20 @@
+C:\Users\Николай Борисов\source\repos\InheritApp\InheritApp\bin\Debug\InheritApp.exe.config
+C:\Users\Николай Борисов\source\repos\InheritApp\InheritApp\bin\Debug\InheritApp.exe
+C:\Users\Николай Борисов\source\repos\InheritApp\InheritApp\bin\Debug\InheritApp.pdb
+C:\Users\Николай Борисов\source\repos\InheritApp\InheritApp\obj\Debug\InheritApp.csprojAssemblyReference.cache
+C:\Users\Николай Борисов\source\repos\InheritApp\InheritApp\obj\Debug\InheritApp.Form1.resources
+C:\Users\Николай Борисов\source\repos\InheritApp\InheritApp\obj\Debug\InheritApp.Properties.Resources.resources
+C:\Users\Николай Борисов\source\repos\InheritApp\InheritApp\obj\Debug\InheritApp.csproj.GenerateResource.cache
+C:\Users\Николай Борисов\source\repos\InheritApp\InheritApp\obj\Debug\InheritApp.csproj.CoreCompileInputs.cache
+C:\Users\Николай Борисов\source\repos\InheritApp\InheritApp\obj\Debug\InheritApp.exe
+C:\Users\Николай Борисов\source\repos\InheritApp\InheritApp\obj\Debug\InheritApp.pdb
+C:\Users\MFRF\Desktop\InheritApp-1\InheritApp\bin\Debug\InheritApp.exe.config
+C:\Users\MFRF\Desktop\InheritApp-1\InheritApp\bin\Debug\InheritApp.exe
+C:\Users\MFRF\Desktop\InheritApp-1\InheritApp\bin\Debug\InheritApp.pdb
+C:\Users\MFRF\Desktop\InheritApp-1\InheritApp\obj\Debug\InheritApp.csprojAssemblyReference.cache
+C:\Users\MFRF\Desktop\InheritApp-1\InheritApp\obj\Debug\InheritApp.Form1.resources
+C:\Users\MFRF\Desktop\InheritApp-1\InheritApp\obj\Debug\InheritApp.Properties.Resources.resources
+C:\Users\MFRF\Desktop\InheritApp-1\InheritApp\obj\Debug\InheritApp.csproj.GenerateResource.cache
+C:\Users\MFRF\Desktop\InheritApp-1\InheritApp\obj\Debug\InheritApp.csproj.CoreCompileInputs.cache
+C:\Users\MFRF\Desktop\InheritApp-1\InheritApp\obj\Debug\InheritApp.exe
+C:\Users\MFRF\Desktop\InheritApp-1\InheritApp\obj\Debug\InheritApp.pdb
